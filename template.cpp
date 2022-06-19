@@ -1,7 +1,12 @@
 #include <bits/stdc++.h>
 #define endl "\n"
-
+typedef long long ll;
 using namespace std;
+
+void solve()
+{
+    
+}
 
 int main()
 {
@@ -11,6 +16,6 @@ int main()
     int t;
     cin >> t;
     while (t--) {
-        
+        solve();
     }
 }

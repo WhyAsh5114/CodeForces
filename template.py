@@ -1,5 +1,5 @@
 t = int(input())
 
 answers = []
-for i in range(t):
+for _ in range(t):
     pass
